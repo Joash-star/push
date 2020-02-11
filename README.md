@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Saleor Storefront
 
 ![1 copy 2x](https://user-images.githubusercontent.com/5421321/47798207-30aeea00-dd28-11e8-9398-3d8426836a83.png)
@@ -90,3 +91,6 @@ This project is licensed under the BSD-3-Clause License - see the [LICENSE](http
 #### Crafted with ❤️ by [Mirumee Software](http://mirumee.com)
 
 hello@mirumee.com
+=======
+# push
+>>>>>>> c85d48937d5feaebc01a40c98cfece590849e26a
